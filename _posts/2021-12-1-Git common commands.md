@@ -1,5 +1,5 @@
 
-###仓库克隆
+仓库克隆
 git clone / git clone --bare
 
 工作区添加暂存区
